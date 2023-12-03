@@ -1,0 +1,2 @@
+# tspractice
+typescript practice reopsitory
